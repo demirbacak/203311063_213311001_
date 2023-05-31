@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:yeni_can_dostum/kullanici/giris_ekrani.dart';
-import '../tasiyici_sayfalar/main.dart';
+import '../main.dart';
 
 class KayitEkrani extends StatefulWidget {
   const KayitEkrani({Key? key}) : super(key: key);

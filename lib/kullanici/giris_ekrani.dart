@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:yeni_can_dostum/tasiyici_sayfalar/base_scaffold.dart';
 import 'package:yeni_can_dostum/kullanici/kayit_ekrani.dart';
-import '../tasiyici_sayfalar/main.dart';
+import '../main.dart';
 
 class GirisEkrani extends StatefulWidget {
   const GirisEkrani({Key? key}) : super(key: key);

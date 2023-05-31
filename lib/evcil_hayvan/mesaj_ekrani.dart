@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
-import '../tasiyici_sayfalar/main.dart';
+import '../main.dart';
 
 class MesajEkarni extends StatefulWidget {
   const MesajEkarni({Key? key}) : super(key: key);

@@ -3,7 +3,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 
 import '../evcil_hayvan/evcil_hayvan_detay.dart';
 import '../evcil_hayvan/evcil_hayvan_widget.dart';
-import '../tasiyici_sayfalar/main.dart';
+import '../main.dart';
 import '../riverpod/riverpod_management.dart';
 
 class DigerHayvan extends ConsumerWidget {

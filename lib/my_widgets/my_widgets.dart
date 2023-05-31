@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../kategori_sayfalari/evcil_hayvan_model.dart';
-import '../tasiyici_sayfalar/main.dart';
+import '../main.dart';
 
 /*Widget buildNavigationIcons({required IconData myicon, required String mytext, required Widget mywidget, required BuildContext context,}){
   return Column(

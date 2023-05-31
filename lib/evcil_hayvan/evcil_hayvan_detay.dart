@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:yeni_can_dostum/kategori_sayfalari/evcil_hayvan_model.dart';
 import 'package:yeni_can_dostum/evcil_hayvan/mesaj_ekrani.dart';
 
-import '../tasiyici_sayfalar/main.dart';
+import '../main.dart';
 
 class EvcilHayvanDetay extends StatelessWidget {
   // EvcilHayvanWidget({Key? key}) : super(key: key);

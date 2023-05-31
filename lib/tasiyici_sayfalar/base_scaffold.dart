@@ -5,7 +5,7 @@ import 'package:yeni_can_dostum/tasiyici_sayfalar/bottom_nav_bar.dart';
 import 'package:yeni_can_dostum/kullanici/giris_ekrani.dart';
 import 'package:yeni_can_dostum/riverpod/riverpod_management.dart';
 
-import 'main.dart';
+import '../main.dart';
 
 class BaseScaffold extends ConsumerStatefulWidget {
   const BaseScaffold({Key? key}) : super(key: key);

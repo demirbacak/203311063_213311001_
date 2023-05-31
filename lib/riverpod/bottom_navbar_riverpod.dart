@@ -5,7 +5,7 @@ import 'package:yeni_can_dostum/footer_sayfalari/favorilerim.dart';
 import 'package:yeni_can_dostum/footer_sayfalari/hakkinda.dart';
 import 'package:yeni_can_dostum/footer_sayfalari/kategoriler.dart';
 import 'package:yeni_can_dostum/footer_sayfalari/profilim.dart';
-import 'package:yeni_can_dostum/tasiyici_sayfalar/main.dart';
+import 'package:yeni_can_dostum/main.dart';
 
 class BottomNavBarRiverpod extends ChangeNotifier {
   List<BottomNavigationBarItem> items = [
