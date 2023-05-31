@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950403444293",
+    "project_id": "yeni-can-dostum",
+    "storage_bucket": "yeni-can-dostum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950403444293:android:384a509a441bfb0587bd2c",
+        "android_client_info": {
+          "package_name": "com.example.yeni_can_dostum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg8cAQjV1U_4rMRtLuW7vY7h4_2WX-_oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
